@@ -72,3 +72,11 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+/.vsconfig
+/GAD2006_Reber.sln
+/.vs
+/Binaries
+/DerivedDataCache
+/Intermediate
+/Source
+/Content/Characters/Mannequins
